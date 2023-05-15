@@ -1,0 +1,50 @@
+[
+    {
+        "idProdcuto": 1,
+        "descripcion": "Manaos",
+        "stock": 300,
+        "idTipoProducto": 1
+    },
+    {
+        "idProdcuto": 1,
+        "descripcion": "Manaos",
+        "stock": 300,
+        "idTipoProducto": 1
+    },
+    {
+        "idProdcuto": 2,
+        "descripcion": "Cerveza Quilmes",
+        "stock": 60,
+        "idTipoProducto": 1
+    },
+    {
+        "idProdcuto": 3,
+        "descripcion": "Paso de los toros",
+        "stock": 89,
+        "idTipoProducto": 1
+    },
+    {
+        "idProdcuto": 4,
+        "descripcion": "Procenex",
+        "stock": 10,
+        "idTipoProducto": 2
+    },
+    {
+        "idProdcuto": 5,
+        "descripcion": "Esponja Mortimer",
+        "stock": 112,
+        "idTipoProducto": 2
+    },
+    {
+        "idProdcuto": 6,
+        "descripcion": "Pan Lactal Fargo",
+        "stock": 3,
+        "idTipoProducto": 3
+    }
+    
+    
+    
+    
+    
+    
+]

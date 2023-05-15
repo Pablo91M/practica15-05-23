@@ -1,0 +1,17 @@
+[
+    {
+        "idTipoProducto": 1,
+        "descripcion": "bebidas",
+        "enabled": true
+    },
+    {
+        "idTipoProducto": 2,
+        "descripcion": "limpieza",
+        "enabled": true
+    },
+    {
+        "idTipoProducto": 3,
+        "descripcion": "panaderia",
+        "enabled": false
+    }
+]
